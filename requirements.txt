@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+streamlit
+transformers
+sentence-transformers
+torch
+pydantic
+python-multipart
